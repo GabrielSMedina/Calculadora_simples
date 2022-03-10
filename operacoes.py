@@ -1,3 +1,5 @@
+# Definindo a forma de resolução de cada operação
+
 def soma(n1, n2):
     return n1 + n2
 
